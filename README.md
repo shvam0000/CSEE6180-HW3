@@ -89,18 +89,18 @@ Simulated Server Utilization: 58.33%
 
 Example:
 
+<img src="./readme_assets/1.png" />
+
+<img src="./readme_assets/2.png" />
+
+<img src="./readme_assets/3.png" />
+
 4. **Comparison Between M/M/1 and M/M/2**
 
 - For the mm2_queue_simulator, the output compares M/M/1 and M/M/2 systems:
   - Highlights differences in queue length, response time, and server utilization under the same total service capacity.
 
 Example:
-
-<img src="./readme_assets/1.png" />
-
-<img src="./readme_assets/2.png" />
-
-<img src="./readme_assets/3.png" />
 
 ```
 Comparison of M/M/1 and M/M/2:
