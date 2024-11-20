@@ -11,8 +11,13 @@ UNI: ss6960
 
 ```
 ├── README.md
+├── Report - CSEE6180_ Modeling and Performance Evaluation.pdf
 ├── mm1_queue_simulator.py
-└── mm2_queue_simulator.py
+├── mm2_queue_simulator.py
+└── readme_assets
+    ├── 1.png
+    ├── 2.png
+    └── 3.png
 ```
 
 #### System Requirements
